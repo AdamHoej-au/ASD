@@ -1,0 +1,745 @@
+PWD c:\ASD\Dioder\Exercise\Journal
+INPUT C:\Users\adamh\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.tex
+OUTPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.log
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\adamh\mytexmf\tex\latex\mystuff\SharedEEpreamble.sty
+INPUT C:\Users\adamh\mytexmf\tex\latex\mystuff\SharedEEpreamble.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\kpfonts.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\kpfonts.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\t1jkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\t1jkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish\danish.ldf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish\danish.ldf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\import\import.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\import\import.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\nextpage.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\nextpage.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\adamh\mytexmf\tex\latex\mystuff\lstautodedent.sty
+INPUT C:\Users\adamh\mytexmf\tex\latex\mystuff\lstautodedent.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arydshln\arydshln.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arydshln\arydshln.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\framed\framed.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\framed\framed.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\acronym\acronym.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\acronym\acronym.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bigfoot\suffix.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xstring\xstring.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xstring\xstring.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xstring\xstring.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\relsize\relsize.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\relsize\relsize.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mdwtools\footnote.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mdwtools\footnote.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\circuitikz\circuitikz.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\circuitikz\circuitikz.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybending.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybending.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulebending.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulenonlineartransformations.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibrarycurvilinear.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibrarycurvilinear.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirc.defines.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcircutils.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcircshapes.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcircmonopoles.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcircbipoles.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirctripoles.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcircquadpoles.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcircmultipoles.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirclabel.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcircvoltage.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcirccurrent.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcircflow.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\circuitikz\pgfcircpath.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse-generic.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse-generic.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfplots\pgfplots.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfplots\pgfplots.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotscore.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsutil.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotscolor.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsstackedplots.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsmeshplotimage.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.scaling.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.errorbars.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.markers.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsticks.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.paths.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cancel\cancel.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cancel\cancel.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xfrac\xfrac.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xfrac\xfrac.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\diffcoeff\diffcoeff.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\diffcoeff\diffcoeff.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\steinmetz\steinmetz.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\steinmetz\steinmetz.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\pict2e.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\pict2e.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cases\cases.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cases\cases.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bitset\bitset.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.ltd.tex
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.aux
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.aux
+OUTPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.aux
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\omljkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\omljkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\omsjkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\omsjkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\omxjkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\omxjkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ujkpexa.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ujkpexa.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-Danish.dict
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-Danish.dict
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.out
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.out
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.out
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.out
+OUTPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.out
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.out
+OUTPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.out
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ot1jkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ot1jkp.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ujkpmia.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ujkpmia.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ujkpsyc.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ujkpsyc.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ot1jkpss.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ot1jkpss.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ot1jkptt.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\ot1jkptt.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpbn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpbn8t.tfm
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.toc
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.toc
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpbn8t.tfm
+OUTPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.toc
+INPUT c:\ASD\Dioder\Exercise\Journal\tex\Introduktion.tex
+INPUT c:\ASD\Dioder\Exercise\Journal\tex\Introduktion.tex
+INPUT c:\ASD\Dioder\Exercise\Journal\tex\TestSetup.tex
+INPUT c:\ASD\Dioder\Exercise\Journal\tex\TestSetup.tex
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\DUTSetup.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\DUTSetup.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\DUTSetup.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\DUTSetup.pdf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmit8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\t1jkptt.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\tex\latex\kpfonts\t1jkptt.fd
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn8t.tfm
+INPUT ..\MATLAB\DiodeSiglentGetter.m
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn8t.tfm
+INPUT ..\MATLAB\DiodeSiglentGetter.m
+INPUT ..\MATLAB\DiodeSiglentGetter.m
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttbn8t.tfm
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\AD2Wavegen.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\AD2Wavegen.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\AD2Wavegen.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\AD2Wavegen.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\AD2Wavegen.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\DUTBoard.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\DUTBoard.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\DUTBoard.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\DUTBoard.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\DUTBoard.png
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmi.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsy.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpex.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpssmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn7t.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmia.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpsyc.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpexa.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpmn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmne.tfm
+INPUT C:\Users\adamh\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpmn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpbn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpbn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpbne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpmn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpbn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpbn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpbne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpbn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpbn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpbne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpmn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpmit8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmit8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmite.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpttmn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpmn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpttbn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttbn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttbne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpttmn8t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmn8r.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpttmne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpmn7t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\public\kpfonts\jkpmn7t.vf
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmne.tfm
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\kpfonts\jkpmn8r.tfm
+INPUT c:\ASD\Dioder\Exercise\Journal\tex\Resultater.tex
+INPUT c:\ASD\Dioder\Exercise\Journal\tex\Resultater.tex
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesLinearFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVHalfRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\SignalDiodesIVFULLRANGE10Vpp-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare.eps
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1N4148Compare-eps-converted-to.pdf
+INPUT c:\ASD\Dioder\Exercise\Journal\tex\Diskusion.tex
+INPUT c:\ASD\Dioder\Exercise\Journal\tex\Diskusion.tex
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_IV_Curve.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_IV_Curve.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_IV_Curve.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_IV_Curve.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_IV_Curve.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_Ambient.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_Ambient.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_Ambient.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_Ambient.png
+INPUT c:\ASD\Dioder\Exercise\Journal\figs\1n914_Ambient.png
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.aux
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.out
+INPUT c:\ASD\Dioder\Exercise\Journal\DiodeExercise.out
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\base\8r.enc
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\kpfonts\kpfonts-expert.enc
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpbn8a.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpbn8a.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmi.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmi.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmia.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmia.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmit8a.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmit8a.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmn8a.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmn8a.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmne.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpmne.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpsy.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpsy.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpttbn8a.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpttbn8a.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpttmn8a.pfb
+INPUT C:\Users\adamh\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\kpfonts\jkpttmn8a.pfb

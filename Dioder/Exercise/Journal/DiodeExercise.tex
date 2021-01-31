@@ -1,0 +1,46 @@
+\documentclass[danish,a4paper]{article}
+\usepackage{SharedEEpreamble}
+\usepackage{lstautodedent}
+
+% Define location of Matlab code
+\def\dirsrc{../MATLAB/}
+
+\begin{document}
+
+% Set listing style
+\lstset{style=matlab}
+
+% Title page
+\title{
+	E4ASD --- Diodeøvelse\\
+	\small Afleveret \today
+}
+
+\author{
+	\begin{tabular}{lr}
+		\multicolumn{2}{c}{\textbf{Gruppe xx}} \\
+		Adam Ryager Høj & 201803767            \\
+		% Rasmus Kahr     & 201803491            \\
+		\multicolumn{2}{c}{\small Aarhus University - School of Engineering}
+	\end{tabular}
+}
+\maketitle
+ \tableofcontents
+
+% Main journal filesc
+\input{tex/Introduktion.tex}
+\input{tex/TestSetup.tex}
+\clearpage
+\input{tex/Resultater.tex}
+\input{tex/Diskusion.tex}
+\clearpage
+
+% Bibliografi
+% \bibliographystyle{IEEEtran}
+% \bibliography{IEEEabrv,c:/Projects/LaTeX/library} 
+\clearpage
+
+% Appendix
+% \input{tex/appendiks.tex}
+
+\end{document}

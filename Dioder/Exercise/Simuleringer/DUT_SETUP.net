@@ -1,0 +1,25 @@
+* C:\ASD\Dioder\Exercise\Simuleringer\DUT_SETUP.asc
+V1 N001 0 SINE({V_offset} {V_amp} {Freq})
+D1 Ch1 Ch2 {DUT}
+R1 Ch2 0 10 pwr=2
+Rg Ch1 N001 50
+Rs_Ch1 Ch1 0 {Rs}
+Rs_Ch2 Ch2 0 {Rs}
+.model D D
+.lib C:\Users\adamh\Documents\LTspiceXVII\lib\cmp\standard.dio
+* D.U.T
+* Current\nMeasurement
+* 10x probe
+.param Rs = 10Meg
+* 10x probe
+.step param DUT list 1 2
+.model 1 ako:1N4148
+.model 2 ako:1N5818
+.tran {4/Freq}
+* Spice settings
+.param V_offset = 2.5V
+.param V_amp = 2.5V
+.param freq = 50
+.param Rg = 50
+.backanno
+.end

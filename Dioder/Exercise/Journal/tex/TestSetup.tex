@@ -1,0 +1,20 @@
+\section{Måleopstilling}
+
+Følgende testsetup er brugt
+
+\fig{DUTSetup}{1}{D.U.T kredsløb der er brugt til målinger i forbindelse med diodeøvelsen.}
+
+Dataen er indhentet ved hjælp af et oscilloskop med en 10X probe. Der blev desuden tilkoblet en pulsgenerator der fungerede som trigger, hvorved et ensartet måleresultat vil fremkomme, se \figref{AD2Wavegen}.
+
+For at \emph{se} spændingsfaldet over dioden, laves en falsk differentiel probe, ved at \emph{probe} ned før og efter dioden og derefter bruge oscilloskopets \emph{Math} funktion til at vise
+\begin{equation}
+    \texttt{Kanal 1} - \texttt{Kanal 2}
+\end{equation} 
+
+
+\includecode{DiodeSiglentGetter.m}{MATLABkode der opsamler data fra Siglent SDS-1104E-X}{}
+
+\fig{AD2Wavegen}{0.6}{Funktionsgenerator setup}
+\fig{DUTBoard}{0.6}{D.U.T board, hvorpå der er monteret en DIP socket hvori didoen kan monteres. Desuden følgende modstande: \SIlist{5;10;40;100;1e3;10e3;100e3;1e6}{\ohm}, hvorved det er muligt at test ved specifikke modstandsværdier. \SI{5}{\ohm} modstanden er bygget op af \(2 \cdot \SI{10}{\ohm}\) der er sat parallelt. Komponterner \SI{<100}{\ohm} er valgt som effektmodstande for at undgå at slippe røgen i kompontetet ud.}
+
+
