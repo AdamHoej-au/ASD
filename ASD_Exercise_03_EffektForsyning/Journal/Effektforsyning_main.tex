@@ -1,0 +1,90 @@
+\documentclass[danish,a4paper]{article}
+% \documentclass[danish,a4paper]{IEEEtran}
+\usepackage{EEpreamble}
+% \usepackage{lstautodedent}
+
+% Define location of Matlab code
+\def\dirsrc{../MATLAB/}
+
+
+
+% Set listing style
+\lstset{style=matlab}
+
+% Title page
+\title{
+	E4ASD --- Transistorøvelse\\
+	\small Afleveret \today
+}
+
+\author{
+	\begin{tabular}{lr}
+		\multicolumn{2}{c}{\textbf{Gruppe xx}} \\
+		Adam Ryager Høj           & 201803767  \\
+		Christian Schultz-Nielsen & 201908485  \\
+		Frederik William Lassen & 201905905    \\
+		Rasmus Kahr             & 201803491    \\
+		\multicolumn{2}{c}{\small Aarhus University - School of Engineering}
+	\end{tabular}
+}
+\begin{document}
+\frontpagestyle
+\maketitle
+\begin{figure*}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{figs/title.png}
+\end{figure*}
+\tableofcontents
+\mainpagestyle
+% Main journal filesc
+
+% \input{tex/Diskusion.tex}
+\clearpage
+% DEL 1 
+\section{Del 1 - Strømforstærkning (BJT)}
+\input{tex/Del01/Introduktion.tex}
+\input{tex/Del01/Dimensionering.tex}
+\input{tex/Del01/Resultater.tex}
+\input{tex/Del01/Diskussion.tex}
+
+\clearpage
+% DEL 2 
+\section{Del 2 - BJT forstærker}
+\input{tex/Del02/Introduktion.tex}
+\input{tex/Del02/Dimensionering.tex}
+\input{tex/Del02/Resultater.tex}
+\clearpage
+\input{tex/Del02/Diskussion.tex}
+
+\clearpage
+% DEL 3 
+\section{Del 3 - JFET strømkilde}\label{DEL3}
+\input{tex/Del03/Introduktion.tex}
+\input{tex/Del03/Dimensionering.tex}
+\input{tex/Del03/Resultater.tex}
+\input{tex/Del03/Diskussion.tex}
+
+\clearpage
+% DEL 4
+\section{Del 4 - Strømkilde med strømspejl}
+\input{tex/Del04/Introduktion.tex}
+\input{tex/Del04/Dimensionering.tex}
+\input{tex/Del04/Resultater.tex}
+\input{tex/Del04/Diskussion.tex}
+
+
+% Bibliografi
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,FlydendeDoping}
+\clearpage
+
+% % Appendix
+%  \input{tex/appendiks.tex}
+% \addcontentsline{toc}{section}{Bilag}
+
+% \appendices
+
+% \input{tex/Bilag/BJT_DC_Bias_udledning.tex}
+
+
+\end{document}
